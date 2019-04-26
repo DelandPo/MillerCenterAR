@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 64f2e12a3ee5cf7478c2739b3d2f100f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Origin Marker
+    100004: Origin Marker2
+    100006: TextPlus001
+    100008: TextPlus002
+    100010: TextPlus003
+    100012: TextPlus004
+    100014: TextPlus005
+    100016: TextPlus006
+    100018: Ext_Ftprint
+    100020: TextPlus007
+    100022: TextPlus008
+    400000: //RootNode
+    400002: Origin Marker
+    400004: Origin Marker2
+    400006: TextPlus001
+    400008: TextPlus002
+    400010: TextPlus003
+    400012: TextPlus004
+    400014: TextPlus005
+    400016: TextPlus006
+    400018: Ext_Ftprint
+    400020: TextPlus007
+    400022: TextPlus008
+    2100000: Markers
+    2100002: Text
+    2100004: No Name
+    2300000: Origin Marker
+    2300002: Origin Marker2
+    2300004: TextPlus001
+    2300006: TextPlus002
+    2300008: TextPlus003
+    2300010: TextPlus004
+    2300012: TextPlus005
+    2300014: TextPlus006
+    2300016: Ext_Ftprint
+    2300018: TextPlus007
+    2300020: TextPlus008
+    3300000: Origin Marker
+    3300002: Origin Marker2
+    3300004: TextPlus001
+    3300006: TextPlus002
+    3300008: TextPlus003
+    3300010: TextPlus004
+    3300012: TextPlus005
+    3300014: TextPlus006
+    3300016: Ext_Ftprint
+    3300018: TextPlus007
+    3300020: TextPlus008
+    4300000: Origin Marker
+    4300002: Origin Marker2
+    4300004: TextPlus001
+    4300006: TextPlus002
+    4300008: TextPlus003
+    4300010: TextPlus004
+    4300012: TextPlus005
+    4300014: TextPlus006
+    4300016: Ext_Ftprint
+    4300018: TextPlus007
+    4300020: TextPlus008
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Markers
+    second: {fileID: 2100000, guid: 40873f2cdab95e94980d9d4c06c39140, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Text
+    second: {fileID: 2100000, guid: 4f6e8f7f1d2383c40a63fc340001c98a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
